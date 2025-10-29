@@ -14,7 +14,7 @@ margin-top: 20px;
 margin-bottom: 20px; }
 a:link { color: #00FFFF; }
 a:visited { color: #FF00FF;}
-p { margin: 0 50px;}
+p { padding: 0 30px;}
 dl { 
 display: inline-block; 
 text-align: left;}
