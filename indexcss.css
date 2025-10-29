@@ -14,7 +14,9 @@ margin-top: 20px;
 margin-bottom: 20px; }
 a:link { color: #00FFFF; }
 a:visited { color: #FF00FF;}
-p { padding: 0 30px;}
+p { 
+max-width: 700px;
+margin: 0 auto; }
 dl { 
 display: inline-block; 
 text-align: left;}
