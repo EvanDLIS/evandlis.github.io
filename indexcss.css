@@ -9,4 +9,7 @@ padding: 10px;
 margin: 10px; }
 a:link { color: #00FFFF; }
 a:visited { color: #FF00FF;}
-p { margin: 30px;}
+p { margin: 50px;}
+dl { 
+display: inline-block; 
+text-align: left;}
