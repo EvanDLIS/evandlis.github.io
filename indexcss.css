@@ -6,6 +6,7 @@ body {
 background-color: #000000;}
 nav {
 padding: 10px;
-margin: 10px;
-a:visited { color: #00ffff;}
+margin: 10px; }
+a:link { color: #00FFFF; }
+a:visited { color: #FF00FF;}
 p { margin: 30px;}
