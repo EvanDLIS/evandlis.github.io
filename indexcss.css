@@ -12,6 +12,7 @@ margin-top: 20px;
 margin-bottom: 20px;
 text-align: center;}
 h2 {
+font-family: Georgia, serif; }
 margin-top: 20px;
 margin-bottom: 20px; 
 text-align: center;}
@@ -31,7 +32,9 @@ margin-bottom: 10px; }
 ol { text-align: center; }
 .content {
 float: left;
+margin-left: 100px; }
 max-width: 600px; }
 .image {
 float: right;
+margin-right: 100px; }
 max-width: 600px; }
